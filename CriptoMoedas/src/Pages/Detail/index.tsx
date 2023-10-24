@@ -7,7 +7,7 @@ export function Detail (){
 
     useEffect(() =>{
         function getData() {
-            fetch(` `)
+            fetch(`https://sujeitoprogramador.com/api-cripto/coin/?key=12c43c574b70eedc&symbol=${cripto}`)
         }
     })
 
