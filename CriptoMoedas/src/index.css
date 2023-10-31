@@ -10,3 +10,7 @@ body{
   margin: 0 auto;
   font-family: sans-serif;
 }
+
+img {
+  width: 150px;
+}

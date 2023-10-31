@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import styles from "./header.module.css"
-import logoimg from "../../assets/logo.svg"
+import logoimg from "../../assets/belly.png"
 
 export function Header(){
     return(
